@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D0D03AB5-4CD6-ADF3-02A2-1C261D390FB5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/OnKeyPress_MoveGravity.cs">
+    <Files>
+      <File FileName="Assets/scripts/TimerScript.cs" Line="18" Column="17" />
+      <File FileName="Assets/scripts/OnCollision_SwitchScene.cs" Line="11" Column="1" />
+      <File FileName="Assets/scripts/dieSiha.cs" Line="21" Column="37" />
+      <File FileName="Assets/scripts/OnKeyPress_MoveGravity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Siha" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="OnKeyPress_MoveGravity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7d57860-9b01-4323-a05e-ef0e41598bdf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
